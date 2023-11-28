@@ -1,0 +1,5 @@
+username,activity,startDate,endDate
+Alice,Travel,12-02-2020,20-02-2020
+Alice,Dancing,21-02-2020,23-02-2020
+Alice,Travel,24-02-2020,28-02-2020
+Bob,Travel,11-02-2020,18-02-2020
