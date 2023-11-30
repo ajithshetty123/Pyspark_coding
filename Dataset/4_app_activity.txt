@@ -1,0 +1,12 @@
+user_id,event_name,event_date,country
+1,app-installed,01-01-2022,India
+1,app-purchase,02-01-2022,India
+2,app-installed,01-01-2022,USA
+3,app-installed,01-01-2022,USA
+3,app-purchase,03-01-2022,USA
+4,app-installed,03-01-2022,India
+4,app-purchase,03-01-2022,India
+5,app-installed,03-01-2022,SL
+5,app-purchase,03-01-2022,SL
+6,app-installed,04-01-2022,Pakistan
+6,app-purchase,04-01-2022,Pakistan
